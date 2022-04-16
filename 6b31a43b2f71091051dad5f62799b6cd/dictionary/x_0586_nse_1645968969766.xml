@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Nse 1645968969766" max_length="40" name="x_0586_nse_1645968969766" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date of Declaration" label="Date of Declaration" max_length="40" name="u_date_of_declaration" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Defaulter Members" label="Defaulter Members" max_length="54" name="u_defaulter_members" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Directors/partners" label="Directors/partners" max_length="102" name="u_directors_partners" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reasons for declaring the member as defaulter" label="Reasons for declaring the member as defaulter" max_length="371" name="u_reasons_for__r_as_defaulter" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>beb164bb2f71091051dad5f62799b666</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_0586_nse_defaulted_broker">
+    <x_0586_nse_defaulted_broker action="INSERT_OR_UPDATE">
+        <date_of_declaration>2018-08-13</date_of_declaration>
+        <defaulter_members>PREM SOMANI SHARE BROKERS PVT. LTD.</defaulter_members>
+        <directors_partners>PREM LATA SOMANI NAWNEET SOMANI</directors_partners>
+        <number>DEF0001031</number>
+        <reasons_for_declaring_the_member_as_defaulter>1) Misuse of client funds and securities 3) Non-availability of funds to meet the client payables 4) Non-settlement of client accounts 5) Non-resolution of investor complaints</reasons_for_declaring_the_member_as_defaulter>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-27 13:37:32</sys_created_on>
+        <sys_id>beb164bb2f71091051dad5f62799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-27 13:37:32</sys_updated_on>
+    </x_0586_nse_defaulted_broker>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-16 12:46:29</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3252234f2f76011051dad5f62799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEF0001031</sys_name>
+        <sys_package display_value="NSE" source="x_0586_nse">6b31a43b2f71091051dad5f62799b6cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NSE">6b31a43b2f71091051dad5f62799b6cd</sys_scope>
+        <sys_update_name>sys_metadata_link_3252234f2f76011051dad5f62799b6af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-16 12:46:29</sys_updated_on>
+        <tablename>x_0586_nse_defaulted_broker</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Defaulted Broker" max_length="40" name="x_0586_nse_defaulted_broker" sizeclass="87" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date of Declaration" max_length="40" name="date_of_declaration" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="defaulter_members" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Directors/partners" max_length="1000" name="directors_partners" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reasons" max_length="1000" name="reasons_for_declaring_the_member_as_defaulter" type="string"/>
+    </element>
+</database>
