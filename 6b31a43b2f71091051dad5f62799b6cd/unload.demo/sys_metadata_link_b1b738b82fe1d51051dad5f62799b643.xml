@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>36b164bb2f71091051dad5f62799b661</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_0586_nse_defaulted_broker">
+    <x_0586_nse_defaulted_broker action="INSERT_OR_UPDATE">
+        <date_of_declaration>2020-11-26</date_of_declaration>
+        <defaulter_members>ANUGRAH STOCK &amp; BROKING PVT. LTD.</defaulter_members>
+        <directors_partners>PARESH KARIYA SADHANA KARIYA</directors_partners>
+        <number>DEF0001013</number>
+        <reasons_for_declaring_the_member_as_defaulter>1) Shortfall and misuse of client funds and securities 2) Inter Client Adjustments in Client Ledgers 4) Monthly pay-outs made to clients 5) Derivatives Advisory Services provided by the Member to its      clients offered through its own Company as well as through      its client and Associated entity 6) Falsification of records 7) Failure to resolve investor complaints</reasons_for_declaring_the_member_as_defaulter>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-27 13:37:32</sys_created_on>
+        <sys_id>36b164bb2f71091051dad5f62799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-27 13:37:32</sys_updated_on>
+    </x_0586_nse_defaulted_broker>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-23 17:27:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b1b738b82fe1d51051dad5f62799b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEF0001013</sys_name>
+        <sys_package display_value="NSE" source="x_0586_nse">6b31a43b2f71091051dad5f62799b6cd</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NSE">6b31a43b2f71091051dad5f62799b6cd</sys_scope>
+        <sys_update_name>sys_metadata_link_b1b738b82fe1d51051dad5f62799b643</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-23 17:27:16</sys_updated_on>
+        <tablename>x_0586_nse_defaulted_broker</tablename>
+    </sys_metadata_link>
+</record_update>
